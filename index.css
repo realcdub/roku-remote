@@ -1,0 +1,26 @@
+.remote {
+    margin: auto;
+}
+
+.remote-button {
+    display: block;
+    margin: 30px;
+    background-color: #662d91;
+    color: #ffffff;
+    border: none;
+    text-align: center;
+    cursor: pointer;
+    width: 120px;
+    height: 110px;
+    min-width: 40px;
+    min-height: 30px;
+    font-size: larger;
+}
+
+#home {
+    background-image: url("home.png");
+    background-size: 60%;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: white;
+}
